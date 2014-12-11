@@ -58,7 +58,7 @@ This will install `http-server` globally so that it may be run from the command 
 
 `-s` or `--silent` Suppress log messages from output
 
-`--cors` Enable CORS via the `Access-Control-Allow-Origin` header
+`--cors` Enable CORS. Set domain.
 
 `-o` Open browser window after staring the server
 
